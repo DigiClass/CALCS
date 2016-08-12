@@ -1,0 +1,5082 @@
+[{
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            38.0
+                        ],
+                        [
+                            0.0,
+                            39.0
+                        ],
+                        [
+                            1.0,
+                            39.0
+                        ],
+                        [
+                            1.0,
+                            38.0
+                        ],
+                        [
+                            0.0,
+                            38.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "batlas-location",
+            "properties": {
+                "snippet": "Unknown; 550 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/265880/batlas-location",
+                "description": "",
+                "location_precision": "rough",
+                "title": "Barrington Atlas location"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107511,
+                    38.842795
+                ]
+            },
+            "type": "Feature",
+            "id": "darmc-location-963",
+            "properties": {
+                "snippet": "Unknown; 550 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/265880/darmc-location-963",
+                "description": "1M scale point location",
+                "location_precision": "precise",
+                "title": "DARMC location 963"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107511,
+                    38.842795
+                ]
+            },
+            "type": "Feature",
+            "id": "darmc-location-964",
+            "properties": {
+                "snippet": "Unknown; 550 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/265880/darmc-location-964",
+                "description": "1M scale point location",
+                "location_precision": "precise",
+                "title": "DARMC location 964"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.111111,
+                    38.844444
+                ]
+            },
+            "type": "Feature",
+            "id": "dianium-hemeroskopeion",
+            "properties": {
+                "snippet": "Settlement, ; 750 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/265880/dianium-hemeroskopeion",
+                "description": "approximate centerpoint ",
+                "location_precision": "precise",
+                "title": "Dianium/Hemeroskopeion"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": null,
+            "name": "R. Warner"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "http://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "http://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "http://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "featureType": [
+                "unknown"
+            ],
+            "uri": "http://pleiades.stoa.org/places/265880/batlas-location",
+            "end": 640,
+            "description": "",
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "created": "2010-09-24T19:02:27Z",
+            "associationCertainty": "certain",
+            "title": "Barrington Atlas location",
+            "provenance": "Barrington Atlas: BAtlas 27 F3 Dianium/Hemeroskopeion",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            38.0
+                        ],
+                        [
+                            0.0,
+                            39.0
+                        ],
+                        [
+                            1.0,
+                            39.0
+                        ],
+                        [
+                            1.0,
+                            38.0
+                        ],
+                        [
+                            0.0,
+                            38.0
+                        ]
+                    ]
+                ]
+            },
+            "start": -550,
+            "id": "batlas-location",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:50:58Z"
+                }
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "references": [],
+            "review_state": "drafting",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "@type": "Location",
+            "accuracy": null
+        },
+        {
+            "featureType": [
+                "unknown"
+            ],
+            "uri": "http://pleiades.stoa.org/places/265880/darmc-location-963",
+            "end": 640,
+            "description": "1M scale point location",
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies"
+                }
+            ],
+            "created": "2011-03-09T18:37:55Z",
+            "associationCertainty": "certain",
+            "title": "DARMC location 963",
+            "provenance": "DARMC OBJECTID: 963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107511,
+                    38.842795
+                ]
+            },
+            "start": -550,
+            "id": "darmc-location-963",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:50:58Z"
+                },
+                {
+                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-03-09T18:37:56Z"
+                }
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "DARMC OBJECTID: 963",
+            "references": [
+                {
+                    "shortCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "type": "cites",
+                    "uri": "http://darmc.harvard.edu"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "@type": "Location",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/darmc-a"
+        },
+        {
+            "featureType": [
+                "unknown"
+            ],
+            "uri": "http://pleiades.stoa.org/places/265880/darmc-location-964",
+            "end": 640,
+            "description": "1M scale point location",
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies"
+                }
+            ],
+            "created": "2011-03-09T18:37:57Z",
+            "associationCertainty": "certain",
+            "title": "DARMC location 964",
+            "provenance": "DARMC OBJECTID: 964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107511,
+                    38.842795
+                ]
+            },
+            "start": -550,
+            "id": "darmc-location-964",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:50:59Z"
+                },
+                {
+                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-03-09T18:37:58Z"
+                }
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "DARMC OBJECTID: 964",
+            "references": [
+                {
+                    "shortCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "type": "cites",
+                    "uri": "http://darmc.harvard.edu"
+                }
+            ],
+            "review_state": "drafting",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "@type": "Location",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/darmc-a"
+        },
+        {
+            "featureType": [
+                "settlement",
+                ""
+            ],
+            "uri": "http://pleiades.stoa.org/places/265880/dianium-hemeroskopeion",
+            "end": 640,
+            "description": "approximate centerpoint ",
+            "contributors": [],
+            "created": "2012-10-03T20:04:39Z",
+            "associationCertainty": "certain",
+            "title": "Dianium/Hemeroskopeion",
+            "provenance": "Pleiades",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.111111,
+                    38.844444
+                ]
+            },
+            "start": -750,
+            "id": "dianium-hemeroskopeion",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-10-03T20:04:42Z"
+                }
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "references": [],
+            "review_state": "drafting",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "http://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012"
+        }
+    ],
+    "references": [
+        {
+            "shortCitation": "BAtlas 27 F3 Dianium/Hemeroskopeion",
+            "type": "seeFurther",
+            "uri": "http://openlibrary.org/works/OL8327792W"
+        },
+        {
+            "shortCitation": "Tovar 1989, 207-10",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/t.html#Tovar-1989"
+        },
+        {
+            "shortCitation": "Wikipedia, Dénia",
+            "type": "seeFurther",
+            "uri": "https://en.wikipedia.org/wiki/D%C3%A9nia"
+        },
+        {
+            "shortCitation": "TM GEO ID 27402",
+            "type": "seeFurther",
+            "uri": "http://www.trismegistos.org/place/27402"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Dianium",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [],
+            "id": "dianium",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 27 F3 Dianium/Hemeroskopeion",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-09-24T19:02:27Z",
+            "uri": "http://pleiades.stoa.org/places/265880/dianium",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:50:59Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Hemeroskopeion",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [],
+            "id": "hemeroskopeion",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 27 F3 Dianium/Hemeroskopeion",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-09-24T19:02:27Z",
+            "uri": "http://pleiades.stoa.org/places/265880/hemeroskopeion",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:50:59Z"
+                },
+                {
+                    "comment": "Time periods copied from sibling. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-01-20T03:21:31Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Dénia, Denia",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "\"Dénia\" at Wikipedia.org",
+                    "type": "citesAsEvidence",
+                    "uri": "http://en.wikipedia.org/wiki/D%C3%A9nia"
+                }
+            ],
+            "id": "denia",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "ca-valencia",
+            "created": "2012-10-03T20:06:16Z",
+            "uri": "http://pleiades.stoa.org/places/265880/denia",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "http://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "attested": "Dénia",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-12-05T03:02:16Z"
+                },
+                {
+                    "comment": "added name",
+                    "modifiedBy": "jbecker",
+                    "modified": "2012-10-03T20:06:19Z"
+                }
+            ]
+        }
+    ],
+    "id": "265880",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=1",
+        "dare:feature=major settlement"
+    ],
+    "title": "Dianium/Hemeroskopeion",
+    "provenance": "Barrington Atlas: BAtlas 27 F3 Dianium/Hemeroskopeion",
+    "details": "The Barrington Atlas Directory notes: Denia",
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "An ancient place, cited: BAtlas 27 F3 Dianium/Hemeroskopeion",
+    "reprPoint": [
+        0.107511,
+        38.842795
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        0.107511,
+        38.842795,
+        0.107511,
+        38.842795
+    ],
+    "connectsWith": [
+        "http://pleiades.stoa.org/places/269561"
+    ],
+    "rights": "Copyright &#169; The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2010-09-24T19:02:27Z",
+    "uri": "http://pleiades.stoa.org/places/265880",
+    "creators": [
+        {
+            "username": null,
+            "name": "P.O. Spann"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2016-02-08T23:23:26Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-08-08T21:53:36Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:29:54Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T19:11:15Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T03:50:58Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-09T18:37:58Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-09T18:37:57Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T19:22:01Z"
+        }
+    ]
+},
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.0,
+                            37.0
+                        ],
+                        [
+                            -5.0,
+                            38.0
+                        ],
+                        [
+                            -4.0,
+                            38.0
+                        ],
+                        [
+                            -4.0,
+                            37.0
+                        ],
+                        [
+                            -5.0,
+                            37.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "batlas-location",
+            "properties": {
+                "snippet": "Unknown; 330 BC - AD 300",
+                "link": "http://pleiades.stoa.org/places/265938/batlas-location",
+                "description": "",
+                "location_precision": "rough",
+                "title": "Barrington Atlas location"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.377602,
+                    37.755932
+                ]
+            },
+            "type": "Feature",
+            "id": "darmc-location-19788",
+            "properties": {
+                "snippet": "Unknown; 330 BC - AD 300",
+                "link": "http://pleiades.stoa.org/places/265938/darmc-location-19788",
+                "description": "1M scale point location",
+                "location_precision": "precise",
+                "title": "DARMC location 19788"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.3775928,
+                    37.754151
+                ]
+            },
+            "type": "Feature",
+            "id": "osm-location",
+            "properties": {
+                "snippet": "Settlement, ; 330 BC - AD 300",
+                "link": "http://pleiades.stoa.org/places/265938/osm-location",
+                "description": "Location based on OpenStreetMap",
+                "location_precision": "precise",
+                "title": "OSM location"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": null,
+            "name": "R. Warner"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "http://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "http://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "http://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "featureType": [
+                "unknown"
+            ],
+            "uri": "http://pleiades.stoa.org/places/265938/batlas-location",
+            "end": 300,
+            "description": "",
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "created": "2010-09-24T19:03:42Z",
+            "associationCertainty": "certain",
+            "title": "Barrington Atlas location",
+            "provenance": "Barrington Atlas: BAtlas 27 A4 I(p)tuci",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.0,
+                            37.0
+                        ],
+                        [
+                            -5.0,
+                            38.0
+                        ],
+                        [
+                            -4.0,
+                            38.0
+                        ],
+                        [
+                            -4.0,
+                            37.0
+                        ],
+                        [
+                            -5.0,
+                            37.0
+                        ]
+                    ]
+                ]
+            },
+            "start": -330,
+            "id": "batlas-location",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:51:38Z"
+                }
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "references": [],
+            "review_state": "drafting",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "@type": "Location",
+            "accuracy": null
+        },
+        {
+            "featureType": [
+                "unknown"
+            ],
+            "uri": "http://pleiades.stoa.org/places/265938/darmc-location-19788",
+            "end": 300,
+            "description": "1M scale point location",
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies"
+                }
+            ],
+            "created": "2011-03-09T23:51:07Z",
+            "associationCertainty": "certain",
+            "title": "DARMC location 19788",
+            "provenance": "DARMC OBJECTID: 19788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.377602,
+                    37.755932
+                ]
+            },
+            "start": -330,
+            "id": "darmc-location-19788",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:51:38Z"
+                },
+                {
+                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-03-09T23:51:08Z"
+                }
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "DARMC OBJECTID: 19788",
+            "references": [
+                {
+                    "shortCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "type": "cites",
+                    "uri": "http://darmc.harvard.edu"
+                }
+            ],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "@type": "Location",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/darmc-a"
+        },
+        {
+            "featureType": [
+                "settlement",
+                ""
+            ],
+            "uri": "http://pleiades.stoa.org/places/265938/osm-location",
+            "end": 300,
+            "description": "Location based on OpenStreetMap",
+            "contributors": [],
+            "created": "2014-05-31T18:37:47Z",
+            "associationCertainty": "certain",
+            "title": "OSM location",
+            "provenance": "OpenStreetMap (Way 277014082, version 1, osm:changeset=21932099, 2014-04-25T13:44:06Z)",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.3775928,
+                    37.754151
+                ]
+            },
+            "start": -330,
+            "id": "osm-location",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-roman-early-empire",
+                    "confidence": "confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "added location",
+                    "modifiedBy": "jbecker",
+                    "modified": "2014-05-31T18:38:36Z"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modifiedBy": "jbecker",
+                    "modified": "2014-05-31T18:37:51Z"
+                }
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "references": [
+                {
+                    "shortCitation": "osm:way=277014082",
+                    "type": "citesAsDataSource",
+                    "uri": "http://www.openstreetmap.org/browse/way/277014082"
+                }
+            ],
+            "review_state": "pending",
+            "creators": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "http://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "@type": "Location",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment"
+        }
+    ],
+    "references": [
+        {
+            "shortCitation": "BAtlas 27 A4 I(p)tuci",
+            "type": "seeFurther",
+            "uri": "http://openlibrary.org/works/OL8327792W"
+        },
+        {
+            "shortCitation": "Galsterer 1971, 67",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/g.html#Galsterer-1971"
+        },
+        {
+            "shortCitation": "Tovar 1974, 131",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/t.html#Tovar-1974"
+        },
+        {
+            "shortCitation": "vici.org, 11277",
+            "type": "seeFurther",
+            "uri": "http://vici.org/vici/11277/Forum_Torreparedones"
+        },
+        {
+            "shortCitation": "Wikipedia, Iptuci",
+            "type": "seeFurther",
+            "uri": "http://es.wikipedia.org/wiki/Iptuci"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Iptuci",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [],
+            "id": "iptuci",
+            "end": 300,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 27 A4 I(p)tuci",
+            "start": -330,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-09-24T19:03:42Z",
+            "uri": "http://pleiades.stoa.org/places/265938/iptuci",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:51:38Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Ituci",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [],
+            "id": "ituci",
+            "end": 300,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 27 A4 I(p)tuci",
+            "start": -330,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-09-24T19:03:42Z",
+            "uri": "http://pleiades.stoa.org/places/265938/ituci",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:51:38Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Col. Virtus Iulia",
+            "attestations": [],
+            "references": [],
+            "id": "col-virtus-iulia",
+            "end": null,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 27 A4 I(p)tuci",
+            "start": null,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "",
+            "created": "2010-09-24T19:03:42Z",
+            "uri": "http://pleiades.stoa.org/places/265938/col-virtus-iulia",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:51:39Z"
+                }
+            ]
+        }
+    ],
+    "id": "265938",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=1",
+        "dare:feature=major settlement"
+    ],
+    "title": "I(p)tuci",
+    "provenance": "Barrington Atlas: BAtlas 27 A4 I(p)tuci",
+    "details": "The Barrington Atlas Directory notes: Torreparedones?, 10 miles N Baena",
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "An ancient place, cited: BAtlas 27 A4 I(p)tuci",
+    "reprPoint": [
+        -4.377597400000001,
+        37.755041500000004
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        -4.377602,
+        37.754151,
+        -4.3775928,
+        37.755932
+    ],
+    "connectsWith": [],
+    "rights": "Copyright &#169; The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2010-09-24T19:03:41Z",
+    "uri": "http://pleiades.stoa.org/places/265938",
+    "creators": [
+        {
+            "username": null,
+            "name": "P.O. Spann"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2014-05-31T18:40:26Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:30:01Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T19:11:40Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T03:51:38Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-09T23:51:08Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T19:22:14Z"
+        }
+    ]
+},
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.420163,
+                    36.719658
+                ]
+            },
+            "type": "Feature",
+            "id": "darmc-location-20463",
+            "properties": {
+                "snippet": "Unknown; 750 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/265963/darmc-location-20463",
+                "description": "1M scale point location",
+                "location_precision": "precise",
+                "title": "DARMC location 20463"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": null,
+            "name": "R. Warner"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "http://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "http://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "http://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "Michael McCormick, Guoping Huang, Kelly Gibson et al. (ed.), Digital Atlas of Roman and Medieval Civilizations, Harvard University Center for Geographic Analysis",
+                    "type": "cites",
+                    "uri": "http://darmc.harvard.edu"
+                }
+            ],
+            "id": "darmc-location-20463",
+            "end": 640,
+            "title": "DARMC location 20463",
+            "provenance": "DARMC OBJECTID: 20463",
+            "start": -750,
+            "archaeologicalRemains": "unknown",
+            "details": "DARMC OBJECTID: 20463",
+            "review_state": "published",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/darmc-a",
+            "featureType": [
+                "unknown"
+            ],
+            "description": "1M scale point location",
+            "created": "2011-03-10T00:13:33Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.420163,
+                    36.719658
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/265963/darmc-location-20463",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:51:54Z"
+                },
+                {
+                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+                    "modifiedBy": "sgillies",
+                    "modified": "2011-03-10T00:13:34Z"
+                }
+            ]
+        }
+    ],
+    "references": [
+        {
+            "shortCitation": "BAtlas 27 A5 Malaca",
+            "type": "seeFurther",
+            "uri": "http://openlibrary.org/works/OL8327792W"
+        },
+        {
+            "shortCitation": "Tovar 1974, 76-78",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/t.html#Tovar-1974"
+        },
+        {
+            "shortCitation": "Wikipedia, Malaca (Hispania)",
+            "type": "seeFurther",
+            "uri": "http://es.wikipedia.org/wiki/Malaca_(Hispania)"
+        },
+        {
+            "shortCitation": "PECS (Perseus), MALACA (MÃ¡laga) MÃ¡laga, Spain",
+            "type": "seeFurther",
+            "uri": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=malaca"
+        },
+        {
+            "shortCitation": "Strabo 3.4.2",
+            "type": "citesAsEvidence",
+            "uri": "http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1"
+        },
+        {
+            "shortCitation": "Mela 2.6.94",
+            "type": "seeFurther",
+            "uri": "http://latin.packhum.org/loc/929/1/0#1"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Malaca",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "Plin. HN 3.8.2",
+                    "type": "citesAsEvidence",
+                    "uri": "http://latin.packhum.org/loc/978/1/0#215"
+                }
+            ],
+            "id": "malaca",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                },
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "http://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 27 A5 Malaca",
+            "start": -750,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2010-09-24T19:04:15Z",
+            "uri": "http://pleiades.stoa.org/places/265963/malaca",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "P.O. Spann"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "added reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2014-06-01T01:40:41Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T03:51:55Z"
+                }
+            ]
+        }
+    ],
+    "id": "265963",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=1",
+        "dare:feature=major settlement"
+    ],
+    "title": "Malaca",
+    "provenance": "Barrington Atlas: BAtlas 27 A5 Malaca",
+    "details": "The Barrington Atlas Directory notes: MÃ¡laga",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A Roman city of Baetica that was perhaps founded by the Carthaginians in the fifth century BC.",
+    "reprPoint": [
+        -4.420163,
+        36.719658
+    ],
+    "placeTypes": [
+        "settlement",
+        "theatre"
+    ],
+    "bbox": [
+        -4.420163,
+        36.719658,
+        -4.420163,
+        36.719658
+    ],
+    "connectsWith": [],
+    "rights": "Copyright Â© The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2010-09-24T19:04:15Z",
+    "uri": "http://pleiades.stoa.org/places/265963",
+    "creators": [
+        {
+            "username": null,
+            "name": "P.O. Spann"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "edited description, added references",
+            "modifiedBy": "jbecker",
+            "modified": "2014-06-01T01:36:09Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:30:04Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T19:11:56Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T03:51:54Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-10T00:13:35Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T19:22:20Z"
+        }
+    ]
+},
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.139952,
+                    55.025811
+                ]
+            },
+            "type": "Feature",
+            "id": "centerpoint-of-the-ancient-site",
+            "properties": {
+                "snippet": "Unknown; 30 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/89144/centerpoint-of-the-ancient-site",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Centerpoint of the ancient site"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.139217,
+                            55.024981,
+                            0.0
+                        ],
+                        [
+                            -2.141103,
+                            55.025441,
+                            0.0
+                        ],
+                        [
+                            -2.140049,
+                            55.026895,
+                            0.0
+                        ],
+                        [
+                            -2.138174,
+                            55.026448,
+                            0.0
+                        ],
+                        [
+                            -2.139217,
+                            55.024981,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "boundary-of-fort-walls",
+            "properties": {
+                "snippet": "Unknown; 30 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/89144/boundary-of-fort-walls",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Boundary of fort walls"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "http://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "sarcanon",
+            "homepage": null,
+            "name": "Scott Vanderbilt",
+            "uri": "http://pleiades.stoa.org/author/sarcanon"
+        },
+        {
+            "username": null,
+            "name": "R. Warner"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "http://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "http://pleiades.stoa.org/author/thomase"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "Pastscape Moument number 19110",
+                    "type": "cites",
+                    "uri": "http://www.pastscape.org.uk/hob.aspx?hob_id=19110"
+                }
+            ],
+            "id": "centerpoint-of-the-ancient-site",
+            "end": 640,
+            "title": "Centerpoint of the ancient site",
+            "provenance": "Pleiades",
+            "start": -30,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/google-geoeye-2011",
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2011-11-22T04:16:18Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.139952,
+                    55.025811
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/89144/centerpoint-of-the-ancient-site",
+            "creators": [
+                {
+                    "username": "sarcanon",
+                    "homepage": null,
+                    "name": "Scott Vanderbilt",
+                    "uri": "http://pleiades.stoa.org/author/sarcanon"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:17:26Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "sarcanon",
+                    "modified": "2011-11-22T22:01:59Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [],
+            "id": "boundary-of-fort-walls",
+            "end": 640,
+            "title": "Boundary of fort walls",
+            "provenance": "Pleiades",
+            "start": -30,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": "http://pleiades.stoa.org/features/metadata/google-geoeye-2011",
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2012-01-13T19:35:19Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.139217,
+                            55.024981,
+                            0.0
+                        ],
+                        [
+                            -2.141103,
+                            55.025441,
+                            0.0
+                        ],
+                        [
+                            -2.140049,
+                            55.026895,
+                            0.0
+                        ],
+                        [
+                            -2.138174,
+                            55.026448,
+                            0.0
+                        ],
+                        [
+                            -2.139217,
+                            55.024981,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/89144/boundary-of-fort-walls",
+            "creators": [
+                {
+                    "username": "sarcanon",
+                    "homepage": null,
+                    "name": "Scott Vanderbilt",
+                    "uri": "http://pleiades.stoa.org/author/sarcanon"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:17:27Z"
+                },
+                {
+                    "comment": "Added.",
+                    "modifiedBy": "sarcanon",
+                    "modified": "2012-01-13T19:35:22Z"
+                }
+            ]
+        }
+    ],
+    "references": [
+        {
+            "shortCitation": "BAtlas 9 E5 Cilurnum",
+            "type": "seeFurther",
+            "uri": "http://openlibrary.org/works/OL8327792W"
+        },
+        {
+            "shortCitation": "Daniels 1978, 109-20",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/d.html#Daniels-1978"
+        },
+        {
+            "shortCitation": "TIR BritSep 23",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/t.html#TIR-BritSep-23"
+        },
+        {
+            "shortCitation": "Breeze 2006, 195-209",
+            "type": "seeFurther",
+            "uri": "http://www.zotero.org/groups/pleiades/items/itemKey/VF8CRNVF/"
+        },
+        {
+            "shortCitation": "Pastscape monument number 19110",
+            "type": "seeFurther",
+            "uri": "http://www.pastscape.org.uk/hob.aspx?hob_id=19110"
+        },
+        {
+            "shortCitation": "Wikipedia, Cilurnum",
+            "type": "seeFurther",
+            "uri": "http://wikipedia.org/wiki/Cilurnum"
+        },
+        {
+            "shortCitation": "TM GEO ID 15322",
+            "type": "seeFurther",
+            "uri": "http://www.trismegistos.org/place/15322"
+        },
+        {
+            "shortCitation": "English Heritage: CHESTERS ROMAN FORT AND MUSEUM - HADRIAN'S WALL",
+            "type": "seeFurther",
+            "uri": "http://www.english-heritage.org.uk/visit/places/chesters-roman-fort-and-museum-hadrians-wall/"
+        },
+        {
+            "shortCitation": "GeoNames 7932544",
+            "type": "seeFurther",
+            "uri": "http://www.geonames.org/7932544/chesters-roman-fort.html"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Chesters",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "GeoNames 7932544",
+                    "type": "citesAsEvidence",
+                    "uri": "http://www.geonames.org/7932544/chesters-roman-fort.html"
+                }
+            ],
+            "id": "chesters",
+            "end": 2100,
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "http://pleiades.stoa.org/author/jbecker"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 9 E5 Cilurnum",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "Present day name of Roman fort on Hadrian's Wall known as Cilurnum",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2011-11-22T04:14:26Z",
+            "uri": "http://pleiades.stoa.org/places/89144/chesters",
+            "creators": [
+                {
+                    "username": "sarcanon",
+                    "homepage": null,
+                    "name": "Scott Vanderbilt",
+                    "uri": "http://pleiades.stoa.org/author/sarcanon"
+                }
+            ],
+            "attested": "Chesters Roman fort",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "added reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-11-15T17:16:14Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:17:28Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Cilurnum",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "Notitia Dignitatum Occ. xl 38",
+                    "type": "citesAsEvidence",
+                    "uri": "http://atlantides.org/bibliography/n.html#Notitia-Dignitatum-Occ.-xl-38"
+                }
+            ],
+            "id": "cilurnum",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Warner"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 9 E5 Cilurnum",
+            "start": -30,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2009-11-02T09:54:33Z",
+            "uri": "http://pleiades.stoa.org/places/89144/cilurnum",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "A.S. Esmonde Cleary"
+                }
+            ],
+            "attested": "Cilurnum",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T09:17:28Z"
+                }
+            ]
+        }
+    ],
+    "id": "89144",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=0",
+        "dare:feature=fort"
+    ],
+    "title": "Cilurnum",
+    "provenance": "Barrington Atlas: BAtlas 9 E5 Cilurnum",
+    "details": "",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Cilurnum is the site of a fort dating to A.D. 123 on Hadrian's Wall that guarded a military bridge along the Roman road. It is now known as Chester's Roman Fort.",
+    "reprPoint": [
+        -2.139793804461873,
+        55.02587545000804
+    ],
+    "placeTypes": [
+        "fort"
+    ],
+    "bbox": [
+        -2.141103,
+        55.024981,
+        -2.138174,
+        55.026895
+    ],
+    "connectsWith": [
+        "http://pleiades.stoa.org/places/fea7cf3eac15fca67a4d060bce83fdb9",
+        "http://pleiades.stoa.org/places/de1dbbb7b4f1d5f5f8f94be7e64abc5d"
+    ],
+    "rights": "Copyright Â© The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2009-11-02T09:54:32Z",
+    "uri": "http://pleiades.stoa.org/places/89144",
+    "creators": [
+        {
+            "username": null,
+            "name": "A.S. Esmonde Cleary"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-11-15T17:15:11Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-11-15T17:10:40Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-21T00:00:05Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T09:17:25Z"
+        },
+        {
+            "comment": "Improved coordinates, references, names.",
+            "modifiedBy": "thomase",
+            "modified": "2011-12-14T14:48:53Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "sarcanon",
+            "modified": "2011-11-22T04:19:29Z"
+        },
+        {
+            "comment": "Connected to HW, added references, deleted redundant note.",
+            "modifiedBy": "sarcanon",
+            "modified": "2011-11-22T04:13:10Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-21T05:43:45Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T21:26:00Z"
+        }
+    ]
+},
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            48.0
+                        ],
+                        [
+                            0.0,
+                            49.0
+                        ],
+                        [
+                            1.0,
+                            49.0
+                        ],
+                        [
+                            1.0,
+                            48.0
+                        ],
+                        [
+                            0.0,
+                            48.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "undetermined",
+            "properties": {
+                "snippet": "Unknown; 330 BC - AD 640",
+                "link": "http://pleiades.stoa.org/places/109110/undetermined",
+                "description": "",
+                "location_precision": "rough",
+                "title": "Undetermined location"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "http://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "http://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "http://pleiades.stoa.org/author/jbecker"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [],
+            "id": "undetermined",
+            "end": 640,
+            "title": "Undetermined location",
+            "provenance": "Barrington Atlas: BAtlas 11 A4 Lexovii",
+            "start": -330,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2009-11-02T15:53:02Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            48.0
+                        ],
+                        [
+                            0.0,
+                            49.0
+                        ],
+                        [
+                            1.0,
+                            49.0
+                        ],
+                        [
+                            1.0,
+                            48.0
+                        ],
+                        [
+                            0.0,
+                            48.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/109110/undetermined",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "C. Haselgrove"
+                },
+                {
+                    "username": null,
+                    "name": "J. Kunow"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T02:11:16Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-14T23:43:46Z"
+                }
+            ]
+        }
+    ],
+    "references": [
+        {
+            "shortCitation": "BAtlas 11 A4 Lexovii",
+            "type": "seeFurther",
+            "uri": "http://openlibrary.org/works/OL8327792W"
+        },
+        {
+            "shortCitation": "TIR Lutetia 111",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/t.html#TIR-Lutetia-111"
+        },
+        {
+            "shortCitation": "Wikipedia, Lexovii",
+            "type": "seeFurther",
+            "uri": "https://en.wikipedia.org/wiki/Lexovii"
+        },
+        {
+            "shortCitation": "Smith 1854 (Perseus), LEXOVII",
+            "type": "seeFurther",
+            "uri": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DL%3Aentry+group%3D6%3Aentry%3Dlexovii-geo"
+        },
+        {
+            "shortCitation": "New Pauly, Lexovii",
+            "type": "seeFurther",
+            "uri": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/lexovii-e703420"
+        },
+        {
+            "shortCitation": "CIL III 3177-3182",
+            "type": "seeFurther",
+            "uri": "http://atlantides.org/bibliography/"
+        },
+        {
+            "shortCitation": "Caes. Bell. Gall. 3.17.3.2",
+            "type": "citesAsEvidence",
+            "uri": "http://latin.packhum.org/loc/448/1/58/361-368"
+        },
+        {
+            "shortCitation": "Plin. HN 4.107.1",
+            "type": "citesAsEvidence",
+            "uri": "http://latin.packhum.org/loc/978/1/311/66-72"
+        },
+        {
+            "shortCitation": "Strabo 4.1.14",
+            "type": "citesAsEvidence",
+            "uri": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:4.1.14"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Lexovii",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "Caes. Bell. Gall. 3.17.3.2",
+                    "type": "citesAsEvidence",
+                    "uri": "http://latin.packhum.org/loc/448/1/58/361-368"
+                }
+            ],
+            "id": "lexovii",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                },
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "http://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 11 A4 Lexovii",
+            "start": -330,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2009-11-02T15:53:02Z",
+            "uri": "http://pleiades.stoa.org/places/109110/lexovii",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "J. Kunow"
+                },
+                {
+                    "username": null,
+                    "name": "C. Haselgrove"
+                }
+            ],
+            "attested": "",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "added reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-04-15T21:59:24Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T02:11:16Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-14T23:43:46Z"
+                }
+            ]
+        }
+    ],
+    "id": "109110",
+    "subject": [],
+    "title": "Lexovii",
+    "provenance": "Barrington Atlas: BAtlas 11 A4 Lexovii",
+    "details": "None",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The Lexovii were a Celtic people on the western banks of the lower Sequana river.",
+    "reprPoint": [
+        2.3496868,
+        48.8558148
+    ],
+    "placeTypes": [
+        "people"
+    ],
+    "bbox": [
+        2.3496868,
+        48.8558148,
+        2.3496868,
+        48.8558148
+    ],
+    "connectsWith": [
+        "http://pleiades.stoa.org/places/c6d77ea14268c85287b22c39958bccb5"
+    ],
+    "rights": "Copyright Â© The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2009-11-02T15:53:01Z",
+    "uri": "http://pleiades.stoa.org/places/109110",
+    "creators": [
+        {
+            "username": null,
+            "name": "C. Haselgrove"
+        },
+        {
+            "username": null,
+            "name": "J. Kunow"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-04-15T20:55:30Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-04-15T20:51:33Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T02:11:15Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-14T23:43:46Z"
+        }
+    ]
+},
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72326723840497,
+                            37.70899857278852,
+                            0.0
+                        ],
+                        [
+                            28.72325774953116,
+                            37.70906220865258,
+                            0.0
+                        ],
+                        [
+                            28.72325802471225,
+                            37.70917413613567,
+                            0.0
+                        ],
+                        [
+                            28.72329977170479,
+                            37.70923259931942,
+                            0.0
+                        ],
+                        [
+                            28.72335753284378,
+                            37.70927073050617,
+                            0.0
+                        ],
+                        [
+                            28.72344747298065,
+                            37.70929615471989,
+                            0.0
+                        ],
+                        [
+                            28.72352781569819,
+                            37.70930123970751,
+                            0.0
+                        ],
+                        [
+                            28.72361463081901,
+                            37.70926818169234,
+                            0.0
+                        ],
+                        [
+                            28.72367250100699,
+                            37.70924021637753,
+                            0.0
+                        ],
+                        [
+                            28.72372715172162,
+                            37.70919446592495,
+                            0.0
+                        ],
+                        [
+                            28.7237592850031,
+                            37.70916142709081,
+                            0.0
+                        ],
+                        [
+                            28.72377535520716,
+                            37.70909789259733,
+                            0.0
+                        ],
+                        [
+                            28.72377856796065,
+                            37.70906231311651,
+                            0.0
+                        ],
+                        [
+                            28.72377856657171,
+                            37.7090318147337,
+                            0.0
+                        ],
+                        [
+                            28.72326723840497,
+                            37.70899857278852,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "odeon",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/odeon",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Odeon"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72184906119368,
+                            37.7042495931676,
+                            0.0
+                        ],
+                        [
+                            28.7212439854623,
+                            37.7042496149573,
+                            0.0
+                        ],
+                        [
+                            28.72088115897461,
+                            37.70427074222707,
+                            0.0
+                        ],
+                        [
+                            28.72043953925711,
+                            37.70442524729368,
+                            0.0
+                        ],
+                        [
+                            28.71984898558944,
+                            37.70471769724115,
+                            0.0
+                        ],
+                        [
+                            28.71931316822013,
+                            37.70525344451525,
+                            0.0
+                        ],
+                        [
+                            28.71919417140575,
+                            37.7054718169348,
+                            0.0
+                        ],
+                        [
+                            28.7185445416007,
+                            37.70874204349087,
+                            0.0
+                        ],
+                        [
+                            28.71838173583765,
+                            37.70966547047871,
+                            0.0
+                        ],
+                        [
+                            28.71833302205222,
+                            37.71046732200293,
+                            0.0
+                        ],
+                        [
+                            28.7184129342502,
+                            37.71087488476019,
+                            0.0
+                        ],
+                        [
+                            28.71867107397104,
+                            37.71129804972422,
+                            0.0
+                        ],
+                        [
+                            28.72049674765679,
+                            37.71275301226866,
+                            0.0
+                        ],
+                        [
+                            28.72093452976118,
+                            37.71287652367366,
+                            0.0
+                        ],
+                        [
+                            28.72158478950453,
+                            37.71291067587195,
+                            0.0
+                        ],
+                        [
+                            28.72246222801404,
+                            37.71291701611037,
+                            0.0
+                        ],
+                        [
+                            28.72294776670917,
+                            37.71289198650548,
+                            0.0
+                        ],
+                        [
+                            28.72332427112507,
+                            37.71283521749541,
+                            0.0
+                        ],
+                        [
+                            28.72455000408786,
+                            37.71240408725126,
+                            0.0
+                        ],
+                        [
+                            28.72771595580023,
+                            37.71027980223054,
+                            0.0
+                        ],
+                        [
+                            28.73012564780541,
+                            37.70814110010107,
+                            0.0
+                        ],
+                        [
+                            28.72961311032941,
+                            37.70630059146714,
+                            0.0
+                        ],
+                        [
+                            28.72736377056066,
+                            37.70509738148968,
+                            0.0
+                        ],
+                        [
+                            28.72571493453319,
+                            37.7047435584855,
+                            0.0
+                        ],
+                        [
+                            28.72184906119368,
+                            37.7042495931676,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "walls",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/walls",
+                "description": "Approximate linear extent of the ancient city walls",
+                "location_precision": "precise",
+                "title": "Walls"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72292115267819,
+                            37.70952219302279,
+                            0.0
+                        ],
+                        [
+                            28.72260905624125,
+                            37.70954538670958,
+                            0.0
+                        ],
+                        [
+                            28.72257274101629,
+                            37.7097346496723,
+                            0.0
+                        ],
+                        [
+                            28.72286865086417,
+                            37.70983664348674,
+                            0.0
+                        ],
+                        [
+                            28.7236860299608,
+                            37.70993187428373,
+                            0.0
+                        ],
+                        [
+                            28.7237384877137,
+                            37.70965068472989,
+                            0.0
+                        ],
+                        [
+                            28.72292115267819,
+                            37.70952219302279,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "temple-church",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/temple-church",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Temple/Church"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.72295826282607,
+                    37.70607637763953,
+                    0.0
+                ]
+            },
+            "type": "Feature",
+            "id": "martyrion",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/martyrion",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Martyrion"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72627420145319,
+                            37.7083425060967,
+                            0.0
+                        ],
+                        [
+                            28.72528846363038,
+                            37.70847455748434,
+                            0.0
+                        ],
+                        [
+                            28.7252760777322,
+                            37.70866403539355,
+                            0.0
+                        ],
+                        [
+                            28.72628053202901,
+                            37.70853843442149,
+                            0.0
+                        ],
+                        [
+                            28.72627420145319,
+                            37.7083425060967,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "sebasteion",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/sebasteion",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Sebasteion"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72514325205191,
+                            37.70675519575394,
+                            0.0
+                        ],
+                        [
+                            28.72503849517719,
+                            37.70676767821828,
+                            0.0
+                        ],
+                        [
+                            28.72492422656619,
+                            37.70680529621053,
+                            0.0
+                        ],
+                        [
+                            28.72482884423776,
+                            37.70688331533642,
+                            0.0
+                        ],
+                        [
+                            28.72479051941208,
+                            37.70695136872327,
+                            0.0
+                        ],
+                        [
+                            28.72476172634573,
+                            37.70703953360015,
+                            0.0
+                        ],
+                        [
+                            28.72476474988839,
+                            37.70713267483242,
+                            0.0
+                        ],
+                        [
+                            28.72479018891778,
+                            37.70721571161504,
+                            0.0
+                        ],
+                        [
+                            28.72484108127557,
+                            37.70727861685315,
+                            0.0
+                        ],
+                        [
+                            28.72490787588764,
+                            37.70732390849677,
+                            0.0
+                        ],
+                        [
+                            28.72499375363321,
+                            37.70736164990508,
+                            0.0
+                        ],
+                        [
+                            28.72508599113928,
+                            37.70737674380688,
+                            0.0
+                        ],
+                        [
+                            28.7251782274746,
+                            37.70736919176845,
+                            0.0
+                        ],
+                        [
+                            28.72523865817131,
+                            37.70735660865748,
+                            0.0
+                        ],
+                        [
+                            28.72539163953159,
+                            37.70732394237817,
+                            0.0
+                        ],
+                        [
+                            28.7253476185402,
+                            37.70678763388435,
+                            0.0
+                        ],
+                        [
+                            28.72514325205191,
+                            37.70675519575394,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "theater",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/theater",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Theater"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.7230592250674,
+                            37.70655297416305,
+                            0.0
+                        ],
+                        [
+                            28.72294325842969,
+                            37.70742299549069,
+                            0.0
+                        ],
+                        [
+                            28.72320818083804,
+                            37.70744053662537,
+                            0.0
+                        ],
+                        [
+                            28.7233081716988,
+                            37.70659563339535,
+                            0.0
+                        ],
+                        [
+                            28.7230592250674,
+                            37.70655297416305,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "basilica",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/basilica",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Basilica"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72194127313608,
+                            37.70741370186054,
+                            0.0
+                        ],
+                        [
+                            28.72188157615049,
+                            37.70815907101679,
+                            0.0
+                        ],
+                        [
+                            28.72233379103351,
+                            37.70819509060871,
+                            0.0
+                        ],
+                        [
+                            28.72241886656425,
+                            37.70744406232603,
+                            0.0
+                        ],
+                        [
+                            28.72194127313608,
+                            37.70741370186054,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "hadrianic-baths",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/hadrianic-baths",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Hadrianic Baths"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.72500197496291,
+                    37.70995333072334,
+                    0.0
+                ]
+            },
+            "type": "Feature",
+            "id": "tetrapylon",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/tetrapylon",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Tetrapylon"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72272966783981,
+                            37.70742061326526,
+                            0.0
+                        ],
+                        [
+                            28.7226830251138,
+                            37.70801639332575,
+                            0.0
+                        ],
+                        [
+                            28.72504966789937,
+                            37.7081507149631,
+                            0.0
+                        ],
+                        [
+                            28.72516779653175,
+                            37.70760829579424,
+                            0.0
+                        ],
+                        [
+                            28.72272966783981,
+                            37.70742061326526,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "south-agora",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/south-agora",
+                "description": "",
+                "location_precision": "precise",
+                "title": "South Agora"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72191877177206,
+                            37.7122055478138,
+                            0.0
+                        ],
+                        [
+                            28.72133741218158,
+                            37.71221586112809,
+                            0.0
+                        ],
+                        [
+                            28.72091374713929,
+                            37.71224356996957,
+                            0.0
+                        ],
+                        [
+                            28.72069089036934,
+                            37.71228485280952,
+                            0.0
+                        ],
+                        [
+                            28.72058858474588,
+                            37.71233306783936,
+                            0.0
+                        ],
+                        [
+                            28.7205090910556,
+                            37.71243817120784,
+                            0.0
+                        ],
+                        [
+                            28.72049353146711,
+                            37.71252341386986,
+                            0.0
+                        ],
+                        [
+                            28.72052929353458,
+                            37.71264719571747,
+                            0.0
+                        ],
+                        [
+                            28.72062906593541,
+                            37.71273544782078,
+                            0.0
+                        ],
+                        [
+                            28.72079142590767,
+                            37.7127917355091,
+                            0.0
+                        ],
+                        [
+                            28.72104311954604,
+                            37.71281804143614,
+                            0.0
+                        ],
+                        [
+                            28.72133609144757,
+                            37.71283889148087,
+                            0.0
+                        ],
+                        [
+                            28.72164125449634,
+                            37.7128399116708,
+                            0.0
+                        ],
+                        [
+                            28.72217313488139,
+                            37.712840437982,
+                            0.0
+                        ],
+                        [
+                            28.72245259970674,
+                            37.71284019728783,
+                            0.0
+                        ],
+                        [
+                            28.72293232244634,
+                            37.7128280379937,
+                            0.0
+                        ],
+                        [
+                            28.72315672110257,
+                            37.71281244984131,
+                            0.0
+                        ],
+                        [
+                            28.72330821551991,
+                            37.71276932513744,
+                            0.0
+                        ],
+                        [
+                            28.7234223214997,
+                            37.71268633688801,
+                            0.0
+                        ],
+                        [
+                            28.72346347258579,
+                            37.71254674708005,
+                            0.0
+                        ],
+                        [
+                            28.72343915794833,
+                            37.71244191263517,
+                            0.0
+                        ],
+                        [
+                            28.72330776020742,
+                            37.7123002772694,
+                            0.0
+                        ],
+                        [
+                            28.72316928088158,
+                            37.71223521797675,
+                            0.0
+                        ],
+                        [
+                            28.72264892211388,
+                            37.71221610724965,
+                            0.0
+                        ],
+                        [
+                            28.72191877177206,
+                            37.7122055478138,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "stadium",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/stadium",
+                "description": "",
+                "location_precision": "precise",
+                "title": "Stadium"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72240345052512,
+                            37.70812579783458,
+                            0.0
+                        ],
+                        [
+                            28.72240461561624,
+                            37.70886257902009,
+                            0.0
+                        ],
+                        [
+                            28.72430086834006,
+                            37.70901166633699,
+                            0.0
+                        ],
+                        [
+                            28.72442441852915,
+                            37.70824097780856,
+                            0.0
+                        ],
+                        [
+                            28.72240345052512,
+                            37.70812579783458,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "id": "north-agora",
+            "properties": {
+                "snippet": "Unknown",
+                "link": "http://pleiades.stoa.org/places/638753/north-agora",
+                "description": "",
+                "location_precision": "precise",
+                "title": "North Agora"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": null,
+            "name": "talbert"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "http://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "http://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "juser",
+            "homepage": null,
+            "name": "Joe User",
+            "uri": "http://pleiades.stoa.org/author/juser"
+        },
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": "bdturner",
+            "homepage": null,
+            "name": "Brian Turner",
+            "uri": "http://pleiades.stoa.org/author/bdturner"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "http://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "rchavez",
+            "homepage": null,
+            "name": "Rob Chavez",
+            "uri": "http://pleiades.stoa.org/author/rchavez"
+        },
+        {
+            "username": "gbodard",
+            "homepage": null,
+            "name": "Gabriel Bodard",
+            "uri": "http://pleiades.stoa.org/author/gbodard"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "odeon",
+            "end": null,
+            "title": "Odeon",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:15:59Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72326723840497,
+                            37.70899857278852,
+                            0.0
+                        ],
+                        [
+                            28.72325774953116,
+                            37.70906220865258,
+                            0.0
+                        ],
+                        [
+                            28.72325802471225,
+                            37.70917413613567,
+                            0.0
+                        ],
+                        [
+                            28.72329977170479,
+                            37.70923259931942,
+                            0.0
+                        ],
+                        [
+                            28.72335753284378,
+                            37.70927073050617,
+                            0.0
+                        ],
+                        [
+                            28.72344747298065,
+                            37.70929615471989,
+                            0.0
+                        ],
+                        [
+                            28.72352781569819,
+                            37.70930123970751,
+                            0.0
+                        ],
+                        [
+                            28.72361463081901,
+                            37.70926818169234,
+                            0.0
+                        ],
+                        [
+                            28.72367250100699,
+                            37.70924021637753,
+                            0.0
+                        ],
+                        [
+                            28.72372715172162,
+                            37.70919446592495,
+                            0.0
+                        ],
+                        [
+                            28.7237592850031,
+                            37.70916142709081,
+                            0.0
+                        ],
+                        [
+                            28.72377535520716,
+                            37.70909789259733,
+                            0.0
+                        ],
+                        [
+                            28.72377856796065,
+                            37.70906231311651,
+                            0.0
+                        ],
+                        [
+                            28.72377856657171,
+                            37.7090318147337,
+                            0.0
+                        ],
+                        [
+                            28.72326723840497,
+                            37.70899857278852,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/odeon",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:12Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "walls",
+            "end": null,
+            "title": "Walls",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "Approximate linear extent of the ancient city walls",
+            "created": "2010-08-27T21:21:01Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72184906119368,
+                            37.7042495931676,
+                            0.0
+                        ],
+                        [
+                            28.7212439854623,
+                            37.7042496149573,
+                            0.0
+                        ],
+                        [
+                            28.72088115897461,
+                            37.70427074222707,
+                            0.0
+                        ],
+                        [
+                            28.72043953925711,
+                            37.70442524729368,
+                            0.0
+                        ],
+                        [
+                            28.71984898558944,
+                            37.70471769724115,
+                            0.0
+                        ],
+                        [
+                            28.71931316822013,
+                            37.70525344451525,
+                            0.0
+                        ],
+                        [
+                            28.71919417140575,
+                            37.7054718169348,
+                            0.0
+                        ],
+                        [
+                            28.7185445416007,
+                            37.70874204349087,
+                            0.0
+                        ],
+                        [
+                            28.71838173583765,
+                            37.70966547047871,
+                            0.0
+                        ],
+                        [
+                            28.71833302205222,
+                            37.71046732200293,
+                            0.0
+                        ],
+                        [
+                            28.7184129342502,
+                            37.71087488476019,
+                            0.0
+                        ],
+                        [
+                            28.71867107397104,
+                            37.71129804972422,
+                            0.0
+                        ],
+                        [
+                            28.72049674765679,
+                            37.71275301226866,
+                            0.0
+                        ],
+                        [
+                            28.72093452976118,
+                            37.71287652367366,
+                            0.0
+                        ],
+                        [
+                            28.72158478950453,
+                            37.71291067587195,
+                            0.0
+                        ],
+                        [
+                            28.72246222801404,
+                            37.71291701611037,
+                            0.0
+                        ],
+                        [
+                            28.72294776670917,
+                            37.71289198650548,
+                            0.0
+                        ],
+                        [
+                            28.72332427112507,
+                            37.71283521749541,
+                            0.0
+                        ],
+                        [
+                            28.72455000408786,
+                            37.71240408725126,
+                            0.0
+                        ],
+                        [
+                            28.72771595580023,
+                            37.71027980223054,
+                            0.0
+                        ],
+                        [
+                            28.73012564780541,
+                            37.70814110010107,
+                            0.0
+                        ],
+                        [
+                            28.72961311032941,
+                            37.70630059146714,
+                            0.0
+                        ],
+                        [
+                            28.72736377056066,
+                            37.70509738148968,
+                            0.0
+                        ],
+                        [
+                            28.72571493453319,
+                            37.7047435584855,
+                            0.0
+                        ],
+                        [
+                            28.72184906119368,
+                            37.7042495931676,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/walls",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:12Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "temple-church",
+            "end": null,
+            "title": "Temple/Church",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:23:26Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72292115267819,
+                            37.70952219302279,
+                            0.0
+                        ],
+                        [
+                            28.72260905624125,
+                            37.70954538670958,
+                            0.0
+                        ],
+                        [
+                            28.72257274101629,
+                            37.7097346496723,
+                            0.0
+                        ],
+                        [
+                            28.72286865086417,
+                            37.70983664348674,
+                            0.0
+                        ],
+                        [
+                            28.7236860299608,
+                            37.70993187428373,
+                            0.0
+                        ],
+                        [
+                            28.7237384877137,
+                            37.70965068472989,
+                            0.0
+                        ],
+                        [
+                            28.72292115267819,
+                            37.70952219302279,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/temple-church",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:12Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "martyrion",
+            "end": null,
+            "title": "Martyrion",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:25:16Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.72295826282607,
+                    37.70607637763953,
+                    0.0
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/martyrion",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:13Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "sebasteion",
+            "end": null,
+            "title": "Sebasteion",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:27:47Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72627420145319,
+                            37.7083425060967,
+                            0.0
+                        ],
+                        [
+                            28.72528846363038,
+                            37.70847455748434,
+                            0.0
+                        ],
+                        [
+                            28.7252760777322,
+                            37.70866403539355,
+                            0.0
+                        ],
+                        [
+                            28.72628053202901,
+                            37.70853843442149,
+                            0.0
+                        ],
+                        [
+                            28.72627420145319,
+                            37.7083425060967,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/sebasteion",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "amorgan",
+                    "modified": "2014-09-21T20:35:26Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:13Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "theater",
+            "end": null,
+            "title": "Theater",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:29:50Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72514325205191,
+                            37.70675519575394,
+                            0.0
+                        ],
+                        [
+                            28.72503849517719,
+                            37.70676767821828,
+                            0.0
+                        ],
+                        [
+                            28.72492422656619,
+                            37.70680529621053,
+                            0.0
+                        ],
+                        [
+                            28.72482884423776,
+                            37.70688331533642,
+                            0.0
+                        ],
+                        [
+                            28.72479051941208,
+                            37.70695136872327,
+                            0.0
+                        ],
+                        [
+                            28.72476172634573,
+                            37.70703953360015,
+                            0.0
+                        ],
+                        [
+                            28.72476474988839,
+                            37.70713267483242,
+                            0.0
+                        ],
+                        [
+                            28.72479018891778,
+                            37.70721571161504,
+                            0.0
+                        ],
+                        [
+                            28.72484108127557,
+                            37.70727861685315,
+                            0.0
+                        ],
+                        [
+                            28.72490787588764,
+                            37.70732390849677,
+                            0.0
+                        ],
+                        [
+                            28.72499375363321,
+                            37.70736164990508,
+                            0.0
+                        ],
+                        [
+                            28.72508599113928,
+                            37.70737674380688,
+                            0.0
+                        ],
+                        [
+                            28.7251782274746,
+                            37.70736919176845,
+                            0.0
+                        ],
+                        [
+                            28.72523865817131,
+                            37.70735660865748,
+                            0.0
+                        ],
+                        [
+                            28.72539163953159,
+                            37.70732394237817,
+                            0.0
+                        ],
+                        [
+                            28.7253476185402,
+                            37.70678763388435,
+                            0.0
+                        ],
+                        [
+                            28.72514325205191,
+                            37.70675519575394,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/theater",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "categorized as theater",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-07-13T17:50:43Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:13Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "basilica",
+            "end": null,
+            "title": "Basilica",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:31:12Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.7230592250674,
+                            37.70655297416305,
+                            0.0
+                        ],
+                        [
+                            28.72294325842969,
+                            37.70742299549069,
+                            0.0
+                        ],
+                        [
+                            28.72320818083804,
+                            37.70744053662537,
+                            0.0
+                        ],
+                        [
+                            28.7233081716988,
+                            37.70659563339535,
+                            0.0
+                        ],
+                        [
+                            28.7230592250674,
+                            37.70655297416305,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/basilica",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:13Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "hadrianic-baths",
+            "end": null,
+            "title": "Hadrianic Baths",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:32:46Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72194127313608,
+                            37.70741370186054,
+                            0.0
+                        ],
+                        [
+                            28.72188157615049,
+                            37.70815907101679,
+                            0.0
+                        ],
+                        [
+                            28.72233379103351,
+                            37.70819509060871,
+                            0.0
+                        ],
+                        [
+                            28.72241886656425,
+                            37.70744406232603,
+                            0.0
+                        ],
+                        [
+                            28.72194127313608,
+                            37.70741370186054,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/hadrianic-baths",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:13Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "tetrapylon",
+            "end": null,
+            "title": "Tetrapylon",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:33:58Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.72500197496291,
+                    37.70995333072334,
+                    0.0
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/tetrapylon",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:13Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "south-agora",
+            "end": null,
+            "title": "South Agora",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:35:06Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72272966783981,
+                            37.70742061326526,
+                            0.0
+                        ],
+                        [
+                            28.7226830251138,
+                            37.70801639332575,
+                            0.0
+                        ],
+                        [
+                            28.72504966789937,
+                            37.7081507149631,
+                            0.0
+                        ],
+                        [
+                            28.72516779653175,
+                            37.70760829579424,
+                            0.0
+                        ],
+                        [
+                            28.72272966783981,
+                            37.70742061326526,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/south-agora",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:13Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "stadium",
+            "end": null,
+            "title": "Stadium",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:36:41Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72191877177206,
+                            37.7122055478138,
+                            0.0
+                        ],
+                        [
+                            28.72133741218158,
+                            37.71221586112809,
+                            0.0
+                        ],
+                        [
+                            28.72091374713929,
+                            37.71224356996957,
+                            0.0
+                        ],
+                        [
+                            28.72069089036934,
+                            37.71228485280952,
+                            0.0
+                        ],
+                        [
+                            28.72058858474588,
+                            37.71233306783936,
+                            0.0
+                        ],
+                        [
+                            28.7205090910556,
+                            37.71243817120784,
+                            0.0
+                        ],
+                        [
+                            28.72049353146711,
+                            37.71252341386986,
+                            0.0
+                        ],
+                        [
+                            28.72052929353458,
+                            37.71264719571747,
+                            0.0
+                        ],
+                        [
+                            28.72062906593541,
+                            37.71273544782078,
+                            0.0
+                        ],
+                        [
+                            28.72079142590767,
+                            37.7127917355091,
+                            0.0
+                        ],
+                        [
+                            28.72104311954604,
+                            37.71281804143614,
+                            0.0
+                        ],
+                        [
+                            28.72133609144757,
+                            37.71283889148087,
+                            0.0
+                        ],
+                        [
+                            28.72164125449634,
+                            37.7128399116708,
+                            0.0
+                        ],
+                        [
+                            28.72217313488139,
+                            37.712840437982,
+                            0.0
+                        ],
+                        [
+                            28.72245259970674,
+                            37.71284019728783,
+                            0.0
+                        ],
+                        [
+                            28.72293232244634,
+                            37.7128280379937,
+                            0.0
+                        ],
+                        [
+                            28.72315672110257,
+                            37.71281244984131,
+                            0.0
+                        ],
+                        [
+                            28.72330821551991,
+                            37.71276932513744,
+                            0.0
+                        ],
+                        [
+                            28.7234223214997,
+                            37.71268633688801,
+                            0.0
+                        ],
+                        [
+                            28.72346347258579,
+                            37.71254674708005,
+                            0.0
+                        ],
+                        [
+                            28.72343915794833,
+                            37.71244191263517,
+                            0.0
+                        ],
+                        [
+                            28.72330776020742,
+                            37.7123002772694,
+                            0.0
+                        ],
+                        [
+                            28.72316928088158,
+                            37.71223521797675,
+                            0.0
+                        ],
+                        [
+                            28.72264892211388,
+                            37.71221610724965,
+                            0.0
+                        ],
+                        [
+                            28.72191877177206,
+                            37.7122055478138,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/stadium",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "categorized as stadium",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-07-13T17:52:04Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:14Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [],
+            "references": [],
+            "id": "north-agora",
+            "end": null,
+            "title": "North Agora",
+            "provenance": "Pleiades",
+            "start": null,
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "",
+            "created": "2010-08-27T21:38:12Z",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.72240345052512,
+                            37.70812579783458,
+                            0.0
+                        ],
+                        [
+                            28.72240461561624,
+                            37.70886257902009,
+                            0.0
+                        ],
+                        [
+                            28.72430086834006,
+                            37.70901166633699,
+                            0.0
+                        ],
+                        [
+                            28.72442441852915,
+                            37.70824097780856,
+                            0.0
+                        ],
+                        [
+                            28.72240345052512,
+                            37.70812579783458,
+                            0.0
+                        ]
+                    ]
+                ]
+            },
+            "locationType": [],
+            "uri": "http://pleiades.stoa.org/places/638753/north-agora",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:14Z"
+                }
+            ]
+        }
+    ],
+    "references": [
+        {
+            "shortCitation": "BAtlas 65 A2 Aphrodisias/Ninoe",
+            "type": "seeFurther",
+            "uri": "http://openlibrary.org/works/OL8327792W"
+        },
+        {
+            "shortCitation": "RE Aphrodisias 2",
+            "type": "seeFurther",
+            "uri": "http://www.atlantides.org/bibliography/re.html"
+        },
+        {
+            "shortCitation": "NPauly Aphrodisias 1",
+            "type": "seeFurther",
+            "uri": "http://www.atlantides.org/bibliography/npauly.html"
+        },
+        {
+            "shortCitation": "RE Ninoe",
+            "type": "seeFurther",
+            "uri": "http://www.atlantides.org/bibliography/re.html"
+        },
+        {
+            "shortCitation": "CAT, Aphrodisias",
+            "type": "seeFurther",
+            "uri": "http://www.une.edu.au/cat/sites/aphrodisias.php"
+        },
+        {
+            "shortCitation": "Wikipedia, Aphrodisias",
+            "type": "seeFurther",
+            "uri": "http://wikipedia.org/wiki/Aphrodisias"
+        },
+        {
+            "shortCitation": "Inscriptions of Aphrodisias Project",
+            "type": "seeFurther",
+            "uri": "http://insaph.kcl.ac.uk/index.html"
+        },
+        {
+            "shortCitation": "DARMC 3234",
+            "type": "seeAlso",
+            "uri": "http://atlantides.org/bibliography/d.html#DARMC-3234"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Aphrodisias",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "IAph 2007 4.202 ii.2",
+                    "type": "citesAsEvidence",
+                    "uri": "http://insaph.kcl.ac.uk/iaph2007/iAph040202.html"
+                }
+            ],
+            "id": "aphrodisias",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "talbert"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "bdturner",
+                    "homepage": null,
+                    "name": "Brian Turner",
+                    "uri": "http://pleiades.stoa.org/author/bdturner"
+                },
+                {
+                    "username": "gbodard",
+                    "homepage": null,
+                    "name": "Gabriel Bodard",
+                    "uri": "http://pleiades.stoa.org/author/gbodard"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 65 A2 Aphrodisias/Ninoe",
+            "start": -30,
+            "details": "",
+            "review_state": "published",
+            "description": "An ancient geographic name for a settlement, attested during the Roman and Late Antique periods.",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2009-04-17T22:03:22Z",
+            "uri": "http://pleiades.stoa.org/places/638753/aphrodisias",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "C. Foss"
+                },
+                {
+                    "username": null,
+                    "name": "S. Mitchell"
+                }
+            ],
+            "attested": "á¼ˆÏ†ÏÎ¿Î´Î¹ÏƒÎ¹á½±Ï‚",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:14Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Ninoe",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "RE Ninoe",
+                    "type": "cites",
+                    "uri": "http://www.atlantides.org/bibliography/re.html"
+                },
+                {
+                    "shortCitation": "StByz ÎÎ¹Î½á½¹Î·",
+                    "type": "citesAsEvidence",
+                    "uri": "http://books.google.com/books?id=Y10GAAAAQAAJ&pg=PA476"
+                }
+            ],
+            "id": "ninoe",
+            "end": -330,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "http://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 65 A2 Aphrodisias/Ninoe",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "An ancient geographic name for a settlement, attested during the Classical period.",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2009-04-17T22:03:22Z",
+            "uri": "http://pleiades.stoa.org/places/638753/ninoe",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "C. Foss"
+                },
+                {
+                    "username": null,
+                    "name": "S. Mitchell"
+                }
+            ],
+            "attested": "ÎÎ¹Î½á½¹Î·",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:15Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Stauropolis",
+            "attestations": [
+                {
+                    "timePeriod": "late-antique",
+                    "confidence": "confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "RouechÃ©, ALA2004, Narrative VI.48-50",
+                    "type": "cites",
+                    "uri": "http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.48"
+                },
+                {
+                    "shortCitation": "Acts of the Sixth Ecumenical Council of 680 (Mansi xi, 672)",
+                    "type": "cites",
+                    "uri": "http://atlantides.org/bibliography/a.html#Acts-of-the-Sixth-Ecumenical-Council-of-680-(Mansi-xi"
+                },
+                {
+                    "shortCitation": "IAph 12.101.ii",
+                    "type": "citesAsEvidence",
+                    "uri": "http://insaph.kcl.ac.uk/iaph2007/iAph120101.html"
+                }
+            ],
+            "id": "stauropolis",
+            "end": 640,
+            "contributors": [],
+            "provenance": "Barrington Atlas: BAtlas 65 A2 Aphrodisias/Ninoe",
+            "start": 300,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "reconstructable",
+            "language": "grc",
+            "created": "2009-04-24T13:55:54Z",
+            "uri": "http://pleiades.stoa.org/places/638753/stauropolis",
+            "creators": [
+                {
+                    "username": "gbodard",
+                    "homepage": null,
+                    "name": "Gabriel Bodard",
+                    "uri": "http://pleiades.stoa.org/author/gbodard"
+                }
+            ],
+            "attested": "Î£Ï„Î±Ï…Ïá½¹Ï€Î¿Î»Î¹Ï‚",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:16Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "less-certain",
+            "romanized": "Lelegon polis",
+            "attestations": [],
+            "references": [
+                {
+                    "shortCitation": "Suda ÎÎ¹Î½á½¹Î·",
+                    "type": "citesAsEvidence",
+                    "uri": "http://www.stoa.org/sol-entries/nu/416"
+                },
+                {
+                    "shortCitation": "StByz ÎÎ¹Î½ÏŒÎ·",
+                    "type": "citesAsEvidence",
+                    "uri": "http://books.google.com/books?id=Y10GAAAAQAAJ&pg=PA476"
+                }
+            ],
+            "id": "lelegon-polis",
+            "end": null,
+            "contributors": [],
+            "provenance": "Barrington Atlas: BAtlas 65 A2 Aphrodisias/Ninoe",
+            "start": null,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2009-04-24T13:32:51Z",
+            "uri": "http://pleiades.stoa.org/places/638753/lelegon-polis",
+            "creators": [
+                {
+                    "username": "gbodard",
+                    "homepage": null,
+                    "name": "Gabriel Bodard",
+                    "uri": "http://pleiades.stoa.org/author/gbodard"
+                }
+            ],
+            "attested": "Î›ÎµÎ»á½³Î³Ï‰Î½ Ï€á½¹Î»Î¹Ï‚",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:16Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Aphrodeisias",
+            "attestations": [
+                {
+                    "timePeriod": "roman",
+                    "confidence": "confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "confidence": "less-confident"
+                }
+            ],
+            "references": [
+                {
+                    "shortCitation": "IAph2007 8.33",
+                    "type": "citesAsEvidence",
+                    "uri": "http://insaph.kcl.ac.uk/iaph2007/iAph080033.html"
+                },
+                {
+                    "shortCitation": "IAph2007 8.27",
+                    "type": "citesAsEvidence",
+                    "uri": "http://insaph.kcl.ac.uk/iaph2007/iAph080027.html"
+                }
+            ],
+            "id": "aphrodeisias",
+            "end": 300,
+            "contributors": [],
+            "provenance": "Barrington Atlas: BAtlas 65 A2 Aphrodisias/Ninoe",
+            "start": -330,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2009-04-24T11:25:37Z",
+            "uri": "http://pleiades.stoa.org/places/638753/aphrodeisias",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "http://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "attested": "á¼ˆÏ†ÏÎ¿Î´ÎµÎ¹ÏƒÎ¹á½±Ï‚",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T07:25:17Z"
+                }
+            ]
+        }
+    ],
+    "id": "638753",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=1",
+        "dare:feature=major settlement"
+    ],
+    "title": "Aphrodisias",
+    "provenance": "Barrington Atlas: BAtlas 65 A2 Aphrodisias/Ninoe",
+    "details": "The Barrington Atlas Directory notes: Geyre, Turkey (nearby)",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "Aphrodisias was a Greek city located in Caria. It is notable especially for the state of its archaeological preservation.",
+    "reprPoint": [
+        28.72364881185155,
+        37.70854849511048
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        28.71833302205222,
+        37.7042495931676,
+        28.73012564780541,
+        37.71291701611037
+    ],
+    "connectsWith": [
+        "http://pleiades.stoa.org/places/d854d5ba426d5b0cc83f6b51f438f43a"
+    ],
+    "rights": "Copyright Â© Ancient World Mapping Center, Institute for the Study of the Ancient World and the authors. Sharing and remixing permitted under terms of the Creative Commons Attribution-Share Alike 3.0 License (cc-by-sa).",
+    "created": "2009-04-17T22:03:22Z",
+    "uri": "http://pleiades.stoa.org/places/638753",
+    "creators": [
+        {
+            "username": null,
+            "name": "C. Foss"
+        },
+        {
+            "username": null,
+            "name": "S. Mitchell"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "reference for DARMC since we retracted the location",
+            "modifiedBy": "thomase",
+            "modified": "2014-03-21T12:30:43Z"
+        },
+        {
+            "comment": "edited description; added references",
+            "modifiedBy": "jbecker",
+            "modified": "2013-05-18T23:45:38Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:31:37Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T17:22:34Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T07:25:11Z"
+        },
+        {
+            "comment": "Added dbpedia link.",
+            "modifiedBy": "thomase",
+            "modified": "2011-12-19T20:31:14Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "thomase",
+            "modified": "2011-12-19T20:27:42Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "juser",
+            "modified": "2011-11-22T00:08:49Z"
+        },
+        {
+            "comment": "Batch updates from Current Archaeology in Turkey summarized at http://pleiades.stoa.org/Members/thomase/cat-2-pleiades-2011-05-27. Reviewer: Tom Elliott",
+            "modifiedBy": "sgillies",
+            "modified": "2011-07-06T20:36:22Z"
+        },
+        {
+            "comment": "added dbpedia link",
+            "modifiedBy": "thomase",
+            "modified": "2011-05-12T19:55:45Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "thomase",
+            "modified": "2011-05-12T19:51:49Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-09T18:57:02Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-02T19:10:18Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T20:46:27Z"
+        },
+        {
+            "comment": "upgrades Aphrodisias entry with significant new material, including names, references and site locations",
+            "modifiedBy": "thomase",
+            "modified": "2010-05-20T15:07:52Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "thomase",
+            "modified": "2009-04-24T14:41:44Z"
+        }
+    ]
+}
+]
