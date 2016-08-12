@@ -10,12 +10,18 @@ of the Roman/Mediterranean world as they are available. The project works partly
 maps and manuscripts, partly from working with existing databases, and partly harvesting large
 linked data resources such as [Wikidata](http://www.wikidata.org/) and [Geonames](http://www.geonames.org/).
 
-### For more information
+##Project team
+
+Based at the Institute of Classical Studies, University of London
+ * Gabriel Bodard
+ * Valeria Vitale
+
+## For more information
 
  * Digital Classicist wiki entry: https://wiki.digitalclassicist.org/Cross-cultural_After-Life_of_Classical_Sites
  * Pelagios Commons announcement: http://commons.pelagios.org/2016/08/cross-cultural-after-life-of-classical-sites/
  
-### License
+## License
 
 All data and code created by the CALCS project is licensed under the terms of the [GNU General Public License](http://www.gnu.org/licenses/)
 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
@@ -25,5 +31,5 @@ limitations to this license.
 
 All geographical and name data will be released through the Pleiades Project, under the terms of their
 [Creative Commons license](http://creativecommons.org/licenses/by/3.0/us/). Any images or manuscripts
-will be distributed via the [Recogito](http://pelagios.org/recogito/?collection=early+islamic) platform so long as they are licensed under CC-BY or more liberal
-licenses.
+will be distributed via the [Recogito](http://pelagios.org/recogito/?collection=early+islamic) platform so long as they are licensed under CC-BY or more
+open licenses.
