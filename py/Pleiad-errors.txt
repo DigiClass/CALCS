@@ -1,0 +1,109 @@
+ {  "PleiadesURI": "570468", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Megara", 
+        "Title": "Megara" }, 
+    { "PleiadesURI": "570468", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Megaris", 
+        "Title": "Megara" }
+===============================================
+ { "PleiadesURI": "570474", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Milos", 
+        "Title": "Melos (settlement)" }, 
+    { "PleiadesURI": "570475", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Milos", 
+        "Title": "Melos (island)" }
+===============================================
+ { "PleiadesURI": "570577", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Peloponnese", 
+        "Title": "Peloponnesus/Peloponnesos/Peloponnese" }, 
+    {"PleiadesURI": "570577", 
+        "WikipediaURL": "https://fr.wikipedia.org/wiki/P%C3%A9loponn%C3%A8se", 
+        "Title": "Peloponnesus/Peloponnesos/Peloponnese" }
+===============================================
+{ "PleiadesURI": "copy_of_878157790", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Lunt_Fort", 
+        "Title": "Lunt Roman fort" }
+===============================================
+ { "PleiadesURI": "148027", 
+        "WikipediaURL": "http://fr.wikipedia.org/wiki/Arc_antique_de_Cavaillon", 
+        "Title": "Cabellio" }, 
+    { "PleiadesURI": "148027", 
+        "WikipediaURL": "http://fr.wikipedia.org/wiki/Cavaillon", 
+        "Title": "Cabellio" }
+===============================================
+{ "PleiadesURI": "442843", 
+        "WikipediaURL": "http://it.wikipedia.org/wiki/Parco_archeologico_di_Serra_di_Vaglio", 
+        "Title": "Vaglio" }, 
+    { "PleiadesURI": "442843", 
+        "WikipediaURL": "http://it.wikipedia.org/wiki/Vaglio_Basilicata", 
+        "Title": "Vaglio" }
+===============================================
+ {"PleiadesURI": "452349", 
+        "WikipediaURL": "http://it.wikipedia.org/wiki/Punta_Pezzo", 
+        "Title": "Kainys"  }, 
+    {"PleiadesURI": "452349", 
+        "WikipediaURL": "http://it.wikipedia.org/wiki/Colonna_Reggina", 
+        "Title": "Kainys"}, 
+    {"PleiadesURI": "452350", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Punta_Pezzo", 
+        "Title": "Kainys Pr."}
+===============================================
+{"PleiadesURI": "452356", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Promunturium_Lacinium", 
+        "Title": "Lacinium Pr."   }, 
+    {"PleiadesURI": "452356", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Capo_Colonna", 
+        "Title": "Lacinium Pr."}
+===============================================
+ {"PleiadesURI": "991342", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Numidia", 
+        "Title": "Numidia Cirtensis"  }, 
+    {"PleiadesURI": "991343", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Numidia", 
+        "Title": "Numidia Militiana"  }
+===============================================
+ {"PleiadesURI": "991359", 
+        "WikipediaURL": "http://it.wikipedia.org/wiki/Regio_II_Apulia_et_Calabria", 
+        "Title": "Apulia et Calabria" }, 
+    {"PleiadesURI": "991359", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Italy_%28Roman_Empire%29", 
+        "Title": "Apulia et Calabria"}
+===============================================
+{"PleiadesURI": "118923", 
+        "WikipediaURL": "https://de.wikipedia.org/w/index.php?title=R%C3%A4tovarier&redirect=no", 
+        "Title": "*Raetovarii" }
+===============================================
+ {"PleiadesURI": "256011", 
+        "WikipediaURL": "http://es.wikipedia.org/wiki/Beturia", 
+        "Title": "Baeturia Celtica"  }, 
+    {"PleiadesURI": "256012", 
+        "WikipediaURL": "http://es.wikipedia.org/wiki/Beturia", 
+        "Title": "Baeturia Turdulorum"}
+===============================================
+ {"PleiadesURI": "207304", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/History_of_Cluj-Napoca", 
+        "Title": "Napoca"}
+===============================================
+ {"PleiadesURI": "207433", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Scordisci", 
+        "Title": "Scordisci"  }, 
+    {"PleiadesURI": "207434", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Scordisci", 
+        "Title": "Scordisci"}
+===============================================
+{"PleiadesURI": "216839", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Histria_(ancient_city)", 
+        "Title": "Histria"}, 
+    {"PleiadesURI": "216839", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Histriopolis_(castra)", 
+        "Title": "Histria"}
+===============================================
+ {"PleiadesURI": "265954", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Castrum_Album", 
+        "Title": "Lucentum"  }, 
+    {"PleiadesURI": "265954", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Alicante", 
+        "Title": "Lucentum"}, 
+    {"PleiadesURI": "265954", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Lucentum", 
+        "Title": "Lucentum"}
+===============================================

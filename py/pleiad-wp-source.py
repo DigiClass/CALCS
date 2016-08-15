@@ -1,9 +1,6 @@
 # -*- coding: UTF-8 -*-
 import string
 import re
-#import socket
-#import time
-#import urllib
 import json
 
 def wpasevid():
