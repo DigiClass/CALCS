@@ -4,8 +4,8 @@ import re
 import json
 
 def wpasevid():
-    #with open('dianium.json') as p:
-    with open('../../../../Desktop/calcs/pleiades-places.json') as p:
+    with open('dianium.json') as p:
+    #with open('../../../../Desktop/calcs/pleiades-places.json') as p:
         pleiad = json.load(p)
     allrefs = []
     for pl in pleiad["@graph"]:
@@ -44,5 +44,6 @@ def geoapi():
         print 'lat',lat,'lng',lng
         location = js['results'][0]['formatted_address']
         print location
+
 
 wpasevid()
