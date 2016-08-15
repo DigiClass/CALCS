@@ -1,4 +1,15 @@
-[{
+{
+"@context": {
+    "snippet": "dcterms:abstract",
+    "rights": "dcterms:rights",
+    "description": "dcterms:description",
+    "title": "dcterms:title",
+    "dcterms": "http://purl.org/dc/terms/",
+    "subject": "dcterms:subject",
+    "uri": "@id",
+    "created": "dcterms:created"
+},
+"@graph": [{
     "features": [
         {
             "geometry": {
@@ -5078,5 +5089,4 @@
             "modified": "2009-04-24T14:41:44Z"
         }
     ]
-}
-]
+}]}

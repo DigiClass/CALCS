@@ -7,12 +7,11 @@ import re
 import json
 
 def wpasevid():
-    with open('dianium.json') as p:
-    #with open('../../../../Desktop/calcs/pleiades-places.json') as p:
+    #with open('dianium.json') as p:
+    with open('../../../../Desktop/calcs/pleiades-places.json') as p:
         pleiad = json.load(p)
-    #wp = open('wpevid.json','w')
     allrefs = []
-    for pl in pleiad:
+    for pl in pleiad["@graph"]:
         if pl['@type'] == 'Place':
             thisplace = pl['id']
             thistitle = pl['title']
@@ -20,26 +19,11 @@ def wpasevid():
                 if ref['type'] == 'seeFurther' and re.match('https?://[a-z\-]{2,14}.wikipedia.org/.*',ref['uri']):
                     thisref = dict()
                     thisref['Title'] = thistitle
-                    thisref['Pleiades'] = thisplace
-                    thisref['Wikipedia'] = ref['uri']
+                    thisref['PleiadesURI'] = thisplace
+                    thisref['WikipediaURL'] = ref['uri']
                     allrefs.append(thisref)
-    for mapping in allrefs:
-        print '('+mapping['Title']+') '+mapping['Pleiades']+': '+mapping['Wikipedia']
+    json.dump(allrefs, open('wpevid.json','w'), indent=4)
 
-
-
-def jsonname():
-    input = ''' [
-    { "id" : "001", "x" : "2", "name" : "Chuck" },
-    { "id" : "009", "x" : "7", "name" : "Brent" },
-    { "id" : "123", "x" : "81", "name" : "Bubba Hotep" }
-    ]'''
-    info = json.loads(input)
-    print 'User count:', len(info)
-    for item in info:
-        print 'Name', item['name'] 
-        print 'Id', item['id'] 
-        print 'Attribute', item['x']
 
 def geoapi():
     serviceurl = 'http://maps.googleapis.com/maps/api/geocode/json?'
