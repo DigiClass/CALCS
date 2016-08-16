@@ -20,6 +20,8 @@ Based at the Institute of Classical Studies, University of London
 
  * Digital Classicist wiki entry: https://wiki.digitalclassicist.org/Cross-cultural_After-Life_of_Classical_Sites
  * Pelagios Commons announcement: http://commons.pelagios.org/2016/08/cross-cultural-after-life-of-classical-sites/
+ * [Arabic to Latin transliteration scheme](https://docs.google.com/spreadsheets/d/1714vPGnYgpLZfyAwVrpGlODThdkXTsPpbClAs0udLe8)
+ * [New name data (in progress)](https://docs.google.com/spreadsheets/d/1KBa5OqOL5cxIfR1i_Mr2oex8KiLkX0QegR4HYImN7NE)
  
 ![Powered by Wikidata](120px-Wikidata_stamp.png)
 
