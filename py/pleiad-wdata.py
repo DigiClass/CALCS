@@ -10,12 +10,18 @@ def getwdata():
     with open('wpevid.json') as p:
         wp = json.load(p)
     for wpurl in wp:
-        time.sleep(2)
-        wpage1 = urllib.urlopen(wpurl["WikipediaURL"]).read()
-        wpage2 = re.sub('&.*?;','',wpage1)
-        xpage = ET.fromstring(wpage2)
-        wdata = xpage.find(".//li[@id='t-wikibase']/a").attrib['href']
-        print wdata
+        time.sleep(1)
+        try:
+            wpage1 = urllib.urlopen(wpurl["WikipediaURL"]).read()
+            wpage2 = re.sub('&.*?;','',wpage1)
+            xpage = ET.fromstring(wpage2)
+            wdata = xpage.find(".//li[@id='t-wikibase']/a").attrib['href']
+            wpurl["WikidataURI"] = wdata
+        except:
+            print "Error: "+wpurl["WikipediaURL"]
+            continue
+    json.dump(wp,open('pl-wp-wd.json','w'),indent=4)
+
 
 def wpasevid():
     #with open('dianium.json') as p:

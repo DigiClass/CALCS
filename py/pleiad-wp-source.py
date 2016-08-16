@@ -4,8 +4,8 @@ import re
 import json
 
 def wpasevid():
-    with open('dianium.json') as p:
-    #with open('../../../../Desktop/calcs/pleiades-places.json') as p:
+    #with open('dianium.json') as p:
+    with open('../../../../Desktop/calcs/pleiades-places.json') as p:
         pleiad = json.load(p)
     allrefs = []
     for pl in pleiad["@graph"]:
@@ -16,7 +16,7 @@ def wpasevid():
                 if ref['type'] == 'seeFurther' and re.match('https?://[a-z\-]{2,14}.wikipedia.org/.*',ref['uri']):
                     thisref = dict()
                     thisref['Title'] = thistitle
-                    thisref['PleiadesURI'] = thisplace
+                    thisref['PleiadesID'] = thisplace
                     thisref['WikipediaURL'] = ref['uri']
                     allrefs.append(thisref)
     json.dump(allrefs, open('wpevid.json','w'), indent=4)

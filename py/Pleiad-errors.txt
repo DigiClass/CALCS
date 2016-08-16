@@ -107,3 +107,17 @@
         "WikipediaURL": "http://en.wikipedia.org/wiki/Lucentum", 
         "Title": "Lucentum"}
 ===============================================
+ {"PleiadesID": "265883", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Ibiza_(ciudad)", 
+        "Title": "Ebusus" }
+        * PAGE DOES NOT EXIST *
+===============================================
+ {"PleiadesID": "383642", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Ivrea", 
+        "Title": "Eporedia"}
+===============================================
+Error: http://tr.wikipedia.org/wiki/%C3%9C%C3%A7_Adalar (no wikidata link)
+Error: https://tr.wikipedia.org/wiki/Etenna (no wikidata link)
+Error: http://it.wikipedia.org/wiki/Mausoleo_di_Lucilio_Peto (no wikidata link)
+Error: http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Aornos (broken)
+Error: http://en.wikipedia.org/wiki/Special:BookSources/3805305583 (????)
