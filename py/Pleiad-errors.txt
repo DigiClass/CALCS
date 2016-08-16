@@ -116,8 +116,23 @@
         "WikipediaURL": "http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Ivrea", 
         "Title": "Eporedia"}
 ===============================================
+Error: http://it.wikipedia.org/wiki/Campomartino (NO PAGE)
+Error: https://en.wikipedia.org/wiki/Garbia (DELETED PAGE)
+Error: http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Aornos (broken)
+Error: http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Orontes_River (broken)
+Error: https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Trinovantes (broken)
+Error: http://en.wikipedia.org/wiki/Qalb_Loze/ (trailing '/' breaks link)
+Error: http://en.wikipedia.org/wiki/Special:BookSources/3805305583 (????)
+Error: http://en.wikipedia.org/wiki/Special:BookSources/0-300-10202-X
+Error: http://en.wikipedia.org/wiki/Special:BookSources/0-674-65345-9
+Error: http://en.wikipedia.org/wiki/Special:BookSources/0-495-00479-0
 Error: http://tr.wikipedia.org/wiki/%C3%9C%C3%A7_Adalar (no wikidata link)
 Error: https://tr.wikipedia.org/wiki/Etenna (no wikidata link)
 Error: http://it.wikipedia.org/wiki/Mausoleo_di_Lucilio_Peto (no wikidata link)
-Error: http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Aornos (broken)
-Error: http://en.wikipedia.org/wiki/Special:BookSources/3805305583 (????)
+Error: http://en.wikipedia.org/wiki/Daskyleion (no wikidata link)
+Error: http://tr.wikipedia.org/wiki/Kad%C4%B1rga,_Fatih (no wikidata link)
+Error: http://tr.wikipedia.org/wiki/Bing%C3%B6l (no wikidata link)
+Error: https://tr.wikipedia.org/wiki/Oylum_H%C3%B6y%C3%BCk (no wikidata link)
+Error: http://en.wikipedia.org/wiki/Monteverde,_Lazio (no wikidata link)
+Error: https://lb.wikipedia.org/wiki/R%C3%A9imesch_Thermen_zu_Mamer (no wikidata link)
+
