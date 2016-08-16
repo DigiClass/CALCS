@@ -22,6 +22,8 @@ def getwdata():
             continue
     json.dump(wp,open('pl-wp-wd.json','w'),indent=4)
 
+# http://www.wikidata.org/wiki/Special:EntityData/
+# + Q00000000.json
 
 def wpasevid():
     #with open('dianium.json') as p:

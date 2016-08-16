@@ -21,6 +21,8 @@ Based at the Institute of Classical Studies, University of London
  * Digital Classicist wiki entry: https://wiki.digitalclassicist.org/Cross-cultural_After-Life_of_Classical_Sites
  * Pelagios Commons announcement: http://commons.pelagios.org/2016/08/cross-cultural-after-life-of-classical-sites/
  
+![Powered by Wikidata](120px-Wikidata_stamp.png)
+
 ## License
 
 All data and code created by the CALCS project is licensed under the terms of the [GNU General Public License](http://www.gnu.org/licenses/)
