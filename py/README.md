@@ -7,7 +7,8 @@ particular languages from Pleiades, Wikidata, Geonames, and other sources, curre
 
  * **adds-wiki.py** - a script to browse a named list of Wikipedia categories (cats.txt) and create a list of all wiki pages included in that category (except those named "List of...") as wikipgs.txt
  * **pleiad-wp-source.py** - script that scrapes the Pleiades JSON dump (not included here) and creates wpevid.json, by pulling out all places that cite WP pages as "seeFurther"
- * **pleiad-wdata.py** - script that pulls WP urls from wpevid.json, goes to the web page (at 1 second intervals) and finds the corresponding Wikidata URI, if there is one, to create pl-wp-wd.json
+ * **pleiad-wdata.py** - contains one function (getwdata) that pulls WP urls from wpevid.json, goes to the web page (at 1 second intervals) and finds the corresponding Wikidata URI, if there is one, to create pl-wp-wd.json
+   * - also contains a second function (getnames) that pulls Wikidata URIs from pl-wp-wd.json, goes to the Wikidata JSON view, and adds Arabic and/or Turkish names to the dictionary, which is then saved as pl-w-names.json
 
 ###Json
 

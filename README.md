@@ -1,7 +1,8 @@
 # Cross-cultural After-Life of Classical Sites (CALCS)
 
-Cross-cultural After-Life of Classical Sites (CALCS) is funded by a micro-grant from the
-[Pelagios Commons](http://commons.pelagios.org/) project, and will run for 4 months (August-November 2016),
+Cross-cultural After-Life of Classical Sites (CALCS) is funded by the Andrew W. Mellon Foundation
+(via a micro-grant from the
+[Pelagios Commons](http://commons.pelagios.org/) project), and will run for 4 months (August-November 2016),
 with the aim to add to the [Pleiades gazetteer](http://pleiades.stoa.org/) information about Arabic and Ottoman names
 (both mediaeval and modern) attached to sites better known by their classical (and sometimes
 modern European) names in the Mediterranean. The 2016 pilot will focus on Sicily, Cyprus,

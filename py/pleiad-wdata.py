@@ -25,25 +25,33 @@ def getwdata():
 # http://www.wikidata.org/wiki/Special:EntityData/
 # + Q00000000.json
 
-def wpasevid():
-    #with open('dianium.json') as p:
-    with open('../../../../Desktop/calcs/pleiades-places.json') as p:
-        pleiad = json.load(p)
-    allrefs = []
-    for pl in pleiad["@graph"]:
-        if pl['@type'] == 'Place':
-            thisplace = pl['id']
-            thistitle = pl['title']
-            for ref in pl['references']:
-                if ref['type'] == 'seeFurther' and re.match('https?://[a-z\-]{2,14}.wikipedia.org/.*',ref['uri']):
-                    thisref = dict()
-                    thisref['Title'] = thistitle
-                    thisref['PleiadesURI'] = thisplace
-                    thisref['WikipediaURL'] = ref['uri']
-                    allrefs.append(thisref)
-    json.dump(allrefs, open('wpevid.json','w'), indent=4)
+def getnames():
+    with open('pl-wp-wd0.json') as r:
+        raw = json.load(r)
+    for wd in raw:
+        try:
+            wdat1 = wd['WikidataURI'].split('/wiki/',1)[1]
+            wdat2 = 'http://www.wikidata.org/wiki/Special:EntityData/'+wdat1+'.json'
+            print wdat1
+            print wdat2
+        except:
+            print "Error: "+wd['WikipediaURL']+" has no Wikidata URI"
+            continue
+        try:
+            wdjson = urllib.urlopen(wdat2)
+            wdj = json.load(wdjson)
+        except:
+            print wdat2+": Cannot load json"
+            continue
+        try:
+            arn = wdj['entities'][wdat1]['labels']['ar']['value']
+            print wd['WikidataURI']
+            print arn
+        except:
+            print "Error: "+wd['WikipediaURL']
+            continue
+    #json.dump(raw,(open('pl-w-names.json','w'),indent=4)
 
 
-
-
-getwdata()
+#getwdata()
+getnames()

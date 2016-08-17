@@ -1,0 +1,31 @@
+[
+    {
+        "PleiadesID": "265880", 
+        "WikidataURI": "https://www.wikidata.org/wiki/Q646725", 
+        "WikipediaURL": "https://en.wikipedia.org/wiki/D%C3%A9nia", 
+        "Title": "Dianium/Hemeroskopeion"
+    }, 
+    {
+        "PleiadesID": "265883", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Ibiza_(ciudad)", 
+        "Title": "Ebusus"
+    }, 
+    {
+        "PleiadesID": "265884", 
+        "WikidataURI": "https://www.wikidata.org/wiki/Q52631", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Ibiza", 
+        "Title": "Ebusus (island)"
+    }, 
+    {
+        "PleiadesID": "265921", 
+        "WikidataURI": "https://www.wikidata.org/wiki/Q8810", 
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Granada", 
+        "Title": "Iliberri"
+    }, 
+    {
+        "PleiadesID": "265921", 
+        "WikidataURI": "https://www.wikidata.org/wiki/Q4502340", 
+        "WikipediaURL": "https://es.wikipedia.org/wiki/Il%C3%ADberis", 
+        "Title": "Iliberri"
+    }
+]
