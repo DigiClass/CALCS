@@ -22,18 +22,17 @@ def getwdata():
             continue
     json.dump(wp,open('pl-wp-wd.json','w'),indent=4)
 
-# http://www.wikidata.org/wiki/Special:EntityData/
-# + Q00000000.json
 
 def getnames():
     with open('pl-wp-wd0.json') as r:
         raw = json.load(r)
+    wdout = []
     for wd in raw:
         try:
             wdat1 = wd['WikidataURI'].split('/wiki/',1)[1]
             wdat2 = 'http://www.wikidata.org/wiki/Special:EntityData/'+wdat1+'.json'
-            print wdat1
-            print wdat2
+            #print wdat1
+            #print wdat2
         except:
             print "Error: "+wd['WikipediaURL']+" has no Wikidata URI"
             continue
@@ -44,13 +43,16 @@ def getnames():
             print wdat2+": Cannot load json"
             continue
         try:
-            arn = wdj['entities'][wdat1]['labels']['ar']['value']
-            print wd['WikidataURI']
-            print arn
+            arn = wdj['entities'][wdat1]['labels']['ar']
+            arstr = arn['value']
+            #print wd['WikidataURI']
+            wd['Arabic'] = arstr
+            wdout.append(wd)
         except:
-            print "Error: "+wd['WikipediaURL']
+            print "Error: "+wdat1
             continue
-    #json.dump(raw,(open('pl-w-names.json','w'),indent=4)
+    #jsutf = json.dumps(wdout,ensure_ascii=False).encode('utf8')
+    json.dump(wdout,open('pl-w-names.json','w'),indent=4)
 
 
 #getwdata()
