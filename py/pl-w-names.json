@@ -1,23 +1,26 @@
 [
     {
-        "PleiadesID": "265880", 
-        "WikidataURI": "https://www.wikidata.org/wiki/Q646725", 
-        "Arabic": "\u062f\u064a\u0646\u0627\u064a\u0627", 
-        "WikipediaURL": "https://en.wikipedia.org/wiki/D%C3%A9nia", 
-        "Title": "Dianium/Hemeroskopeion"
-    }, 
+        "Turkish": "Denia",
+        "Title": "Dianium/Hemeroskopeion",
+        "WikidataURI": "https://www.wikidata.org/wiki/Q646725",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/D%C3%A9nia",
+        "PleiadesID": "265880",
+        "Arabic": "دينايا"
+    },
     {
-        "PleiadesID": "265884", 
-        "WikidataURI": "https://www.wikidata.org/wiki/Q52631", 
-        "Arabic": "\u0625\u064a\u0628\u064a\u0632\u0627", 
-        "WikipediaURL": "http://en.wikipedia.org/wiki/Ibiza", 
-        "Title": "Ebusus (island)"
-    }, 
+        "Turkish": "İbiza",
+        "Title": "Ebusus (island)",
+        "WikidataURI": "https://www.wikidata.org/wiki/Q52631",
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Ibiza",
+        "PleiadesID": "265884",
+        "Arabic": "إيبيزا"
+    },
     {
-        "PleiadesID": "265921", 
-        "WikidataURI": "https://www.wikidata.org/wiki/Q8810", 
-        "Arabic": "\u063a\u0631\u0646\u0627\u0637\u0629", 
-        "WikipediaURL": "http://en.wikipedia.org/wiki/Granada", 
-        "Title": "Iliberri"
+        "Turkish": "Granada",
+        "Title": "Iliberri",
+        "WikidataURI": "https://www.wikidata.org/wiki/Q8810",
+        "WikipediaURL": "http://en.wikipedia.org/wiki/Granada",
+        "PleiadesID": "265921",
+        "Arabic": "غرناطة"
     }
 ]

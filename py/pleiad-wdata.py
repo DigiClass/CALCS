@@ -43,16 +43,26 @@ def getnames():
             print wdat2+": Cannot load json"
             continue
         try:
-            arn = wdj['entities'][wdat1]['labels']['ar']
-            arstr = arn['value']
-            #print wd['WikidataURI']
-            wd['Arabic'] = arstr
-            wdout.append(wd)
+            boo = False
+            if 'ar' in wdj['entities'][wdat1]['labels']:
+                arn = wdj['entities'][wdat1]['labels']['ar']
+                arstr = arn['value']
+                wd['Arabic'] = arstr
+                boo = True
+            if 'tr' in wdj['entities'][wdat1]['labels']:
+                trn = wdj['entities'][wdat1]['labels']['tr']
+                trstr = trn['value']
+                wd['Turkish'] = trstr
+                boo = True
+            if boo:
+                wdout.append(wd)
         except:
             print "Error: "+wdat1
             continue
-    #jsutf = json.dumps(wdout,ensure_ascii=False).encode('utf8')
-    json.dump(wdout,open('pl-w-names.json','w'),indent=4)
+    jsutf = json.dumps(wdout,ensure_ascii=False).encode('utf8')
+    with open('pl-w-names.json','w') as F:
+        F.write(jsutf)
+    #json.dump(jsutf,open('pl-w-names.json','w'),indent=4)
 
 
 #getwdata()
