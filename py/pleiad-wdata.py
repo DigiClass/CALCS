@@ -24,15 +24,13 @@ def getwdata():
 
 
 def getnames():
-    with open('pl-wp-wd0.json') as r:
+    with open('pl-wp-wd.json') as r:
         raw = json.load(r)
     wdout = []
     for wd in raw:
         try:
             wdat1 = wd['WikidataURI'].split('/wiki/',1)[1]
             wdat2 = 'http://www.wikidata.org/wiki/Special:EntityData/'+wdat1+'.json'
-            #print wdat1
-            #print wdat2
         except:
             print "Error: "+wd['WikipediaURL']+" has no Wikidata URI"
             continue
@@ -56,13 +54,14 @@ def getnames():
                 boo = True
             if boo:
                 wdout.append(wd)
+            else:
+                print wdat1+" has no Arabic or Turkish names"
         except:
             print "Error: "+wdat1
             continue
     jsutf = json.dumps(wdout,ensure_ascii=False).encode('utf8')
-    with open('pl-w-names.json','w') as F:
-        F.write(jsutf)
-    #json.dump(jsutf,open('pl-w-names.json','w'),indent=4)
+    with open('pl-w-names.json','w') as jsout:
+        jsout.write(jsutf)
 
 
 #getwdata()
