@@ -23,6 +23,7 @@ Based at the Institute of Classical Studies, University of London
  * Pelagios Commons announcement: http://commons.pelagios.org/2016/08/cross-cultural-after-life-of-classical-sites/
  * [Arabic to Latin transliteration scheme](https://docs.google.com/spreadsheets/d/1714vPGnYgpLZfyAwVrpGlODThdkXTsPpbClAs0udLe8)
  * [New name data (in progress)](https://docs.google.com/spreadsheets/d/1KBa5OqOL5cxIfR1i_Mr2oex8KiLkX0QegR4HYImN7NE)
+ * [Slideshow for DH Hissar workshop](https://docs.google.com/presentation/d/1IgqPkQ-OgqgrWWmDdx2ax-77HAdtGYHEjFt96FJicts/present) (Valeria Vitale, September 10, 2016)
  
 ![Powered by Wikidata](120px-Wikidata_stamp.png)
 
