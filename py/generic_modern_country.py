@@ -9,7 +9,7 @@ import urllib
 import xml.etree.ElementTree as ET
 
 locfile = "pleiades-egypt.json"
-tsvout= "pleiades-egypt.tsv"
+tsvout= "egyptian-names.tsv"
 
 def locnames():
     #extracts name, snippet and ID from extracted modern country places in Pleiades
