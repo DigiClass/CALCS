@@ -8,9 +8,12 @@ import time
 import urllib
 import xml.etree.ElementTree as ET
 
+locfile = "pleiades-egypt.json"
+tsvout= "pleiades-egypt.tsv"
+
 def locnames():
     #extracts name, snippet and ID from extracted modern country places in Pleiades
-    with open('pleiades-loc.json') as l:
+    with open(locfile) as l:
         ln = json.load(l)
     loc = []
     for pl in ln["features"]:
@@ -27,7 +30,7 @@ def locnames():
             plnm["id"] = pleid
             plnm["url"] = 'http://pleiades.stoa.org/places/'+pleid
             loc.append(plnm)
-    with open('location-names.tsv', 'w') as o:
+    with open(tsvout, 'w') as o:
         dw = csv.DictWriter(o, sorted(loc[0].keys()), delimiter='\t')
         dw.writeheader()
         dw.writerows(loc)
