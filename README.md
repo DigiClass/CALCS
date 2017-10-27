@@ -11,13 +11,13 @@ of the Roman/Mediterranean world as they are available. The project works partly
 maps and manuscripts, partly from working with existing databases, and partly harvesting large
 linked data resources such as [Wikidata](http://www.wikidata.org/) and [Geonames](http://www.geonames.org/).
 
-##Project team
+## Project team
 
 Based at the Institute of Classical Studies, University of London
  * Gabriel Bodard
  * Valeria Vitale
 
-##Project partners
+## Project partners
 
  * Grigor Boykov (Sofia), Historical GIS South-East Europe
  * Tom Elliott (NYU) and Ryan Baumann (Duke), Pleiades Project 
