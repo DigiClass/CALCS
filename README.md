@@ -24,8 +24,6 @@ Based at the Institute of Classical Studies, University of London
  * Usama Gad (Ain Shams)
  * Jonathan Prag (Oxford), I.Sicily
  * Eleanor Robson (UCL), Oracc
- * Maxim Romanov (Leipzig), al-Thurayya
- * Hafed Walda, Libyan Gazetteer
 
 ## For more information
 
