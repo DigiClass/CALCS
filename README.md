@@ -27,8 +27,10 @@ Based at the Institute of Classical Studies, University of London
 
 ## For more information
 
- * Digital Classicist wiki entry: https://wiki.digitalclassicist.org/Cross-cultural_After-Life_of_Classical_Sites
- * Pelagios Commons announcement: http://commons.pelagios.org/2016/08/cross-cultural-after-life-of-classical-sites/
+ * [Digital Classicist wiki entry](https://wiki.digitalclassicist.org/Cross-cultural_After-Life_of_Classical_Sites)
+ * [Pelagios Commons announcement](http://web.archive.org/web/20191222032110/http://commons.pelagios.org/2016/08/cross-cultural-after-life-of-classical-sites/) (Aug 2016)
+   * [CALCS: notes on a journey into and through Arabic place-names (interim report)](http://web.archive.org/web/20191209095712/http://commons.pelagios.org/2016/10/calcs-notes-on-a-journey-into-and-through-arabic-place-names/) (Oct 2016)
+   * [CALCS final report](http://web.archive.org/web/20191222025334/http://commons.pelagios.org/2017/01/calcs-final-report/) (Jan 2017)
  * [Arabic to Latin transliteration scheme](https://docs.google.com/spreadsheets/d/1714vPGnYgpLZfyAwVrpGlODThdkXTsPpbClAs0udLe8)
  * [New name data (in progress)](https://docs.google.com/spreadsheets/d/1KBa5OqOL5cxIfR1i_Mr2oex8KiLkX0QegR4HYImN7NE)
  * [Slideshow for DH Hissar workshop](https://docs.google.com/presentation/d/1IgqPkQ-OgqgrWWmDdx2ax-77HAdtGYHEjFt96FJicts/present) (Valeria Vitale, September 10, 2016)
